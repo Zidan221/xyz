@@ -1,4 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/1A9UGDJaMXcBaQRr7” group-title=”Bangla”,palestine_live
+#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/1A9UGDJaMXcBaQRr7” group-title=”Bangla”,PALESTINE LIVE
 https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930 
+#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,KSA 1
+https://edge.taghtia.com/sa/2.m3u8
+#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,MAKKAH
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa",Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa",Qatar Television (720p)
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa",Qatar Television 2 (720p)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="AmmanTV.jo",Amman TV (720p)
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo",Jordan Satellite Channel (1080p)
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="NablusTV.ps",Nablus TV (720p) [Not 24/7]
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 tvg-id="ShababFM.ps",Shabab FM (720p) [Not 24/7]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1 tvg-id="somoytv.news",somoy tv
+https://edge4.bioscopelive.com/hls/anonymous/tadx8wHssKvNvkU8AhWVUw/1709219712/live-somoy-news-tv_hi/index.m3u8
