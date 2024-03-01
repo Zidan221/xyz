@@ -24,5 +24,9 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="ShababFM.ps",Shabab FM (720p) [Not 24/7]
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 tvg-id="somoytv.news",somoy tv
-https://edge4.bioscopelive.com/hls/anonymous/tadx8wHssKvNvkU8AhWVUw/1709219712/live-somoy-news-tv_hi/index.m3u8
+#EXTINF:-1 tvg-id="gazitv.com",GTV
+http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=eac6689669a1778fd20e9bf4319b8ee2d1dc0468-98d1c6060236e59380e087c6c3a86a86-1709318879-1709315279
+#EXTINF:-1 tvg-id="Tsports.com",Tsports
+http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=32eb29d4a25d67aa74324c039d05506a69653368-020014a49767c0b3e3149ecedad5b375-1709319094-1709315494
+#EXTINF:-1 tvg-id="arydigital.tv",ary
+http://tvcdn.hoichoi24.com:8083/1710/tracks-v1a1/mono.m3u8?token=33e7643dd9a09633952a1d3106460000dd30ba14-2748ae5033fee2bbeba58d267a8232c3-1709319329-1709315729
