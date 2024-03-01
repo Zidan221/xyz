@@ -30,3 +30,5 @@ http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=eac6689669a1778
 http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=32eb29d4a25d67aa74324c039d05506a69653368-020014a49767c0b3e3149ecedad5b375-1709319094-1709315494
 #EXTINF:-1 tvg-id="arydigital.tv",ary
 http://tvcdn.hoichoi24.com:8083/1710/tracks-v1a1/mono.m3u8?token=33e7643dd9a09633952a1d3106460000dd30ba14-2748ae5033fee2bbeba58d267a8232c3-1709319329-1709315729
+#EXTINF:-1 tvg-id="aljazeera.qa",Al jazeera mubashar
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709340032/ei/ICHiZfrCKO-Fz7sP8cyY0AM/ip/103.135.255.162/id/eksOMqVMINo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9fxLeB558bvM6Ze_W4FlopchB8Y4OPKm0VrKfHvRXi_nrIg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGSa7w0qxxwLvVKCHElbfDfbWH0RqX8w7iHSHnCVj-eYCIFZQv9eV_8-9UQc7Uc02EeRGk4faVSluM9H0Ox9jxcV6/file/index.m3u8
