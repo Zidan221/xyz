@@ -24,11 +24,17 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="ShababFM.ps",Shabab FM (720p) [Not 24/7]
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 tvg-id="gazitv.com",GTV
-http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=eac6689669a1778fd20e9bf4319b8ee2d1dc0468-98d1c6060236e59380e087c6c3a86a86-1709318879-1709315279
-#EXTINF:-1 tvg-id="Tsports.com",Tsports
-http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=32eb29d4a25d67aa74324c039d05506a69653368-020014a49767c0b3e3149ecedad5b375-1709319094-1709315494
-#EXTINF:-1 tvg-id="arydigital.tv",ary
-http://tvcdn.hoichoi24.com:8083/1710/tracks-v1a1/mono.m3u8?token=33e7643dd9a09633952a1d3106460000dd30ba14-2748ae5033fee2bbeba58d267a8232c3-1709319329-1709315729
-#EXTINF:-1 tvg-id="aljazeera.qa",Al jazeera mubashar
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709340032/ei/ICHiZfrCKO-Fz7sP8cyY0AM/ip/103.135.255.162/id/eksOMqVMINo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9fxLeB558bvM6Ze_W4FlopchB8Y4OPKm0VrKfHvRXi_nrIg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGSa7w0qxxwLvVKCHElbfDfbWH0RqX8w7iHSHnCVj-eYCIFZQv9eV_8-9UQc7Uc02EeRGk4faVSluM9H0Ox9jxcV6/file/index.m3u8
+#EXTINF:-1 tvg-id="foxsports.us",foxsports
+http://116229191157.rsc.cdn77.cc/FoxCricketHD/index.m3u8?token=78241f2435cbbbdd320874995b3341ea
+EXTINF:-1,Premier Sports 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:-1,Premier Sports 2
+http://202.21.104.6:88/sps-play/index.m3u8
+#EXTINF:-1,Premier Sports 4
+http://202.21.104.6:88/sps-action/index.m3u8
+#EXTINF:-1,Premier Sports 5
+http://202.21.104.6:88/sps-plus/index.m3u8
+#EXTINF:-1,ORT1TV
+http://202.21.104.6:88/ort-tv/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar
+http://live-hls-ajm.getaj.net/AJM/02.m3u8
