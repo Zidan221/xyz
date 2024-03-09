@@ -36,5 +36,3 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 http://202.21.104.6:88/ort-tv/index.m3u8
 #EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 tvg-id="tsn.ca", tsn 1
-https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest_024146_dash_1_audio_96000_12479.mp4
