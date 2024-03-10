@@ -36,7 +36,3 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 http://202.21.104.6:88/ort-tv/index.m3u8
 #EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 tvg-id="supersport.com",super sports cricket
-https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1 tvg-id="skysports.com",sky sports Premier League 
-https://sportsleading.online/live/stream_1.m3u8
