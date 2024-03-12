@@ -46,3 +46,13 @@ http://103.151.60.214:7444/1017/video.m3u8
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-id="dubaisports.ae",dubai sports 2
 http://103.151.60.214:7444/1030/video.m3u8
+#EXTINF:-1 tvg-id="espn.com",espn
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 tvg-id="usa.com",usa live
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+#EXTINF:-1 tvg-id="espn.com",espn 3
+http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1 tvg-id="tntsports.com",tnt sports
+http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
