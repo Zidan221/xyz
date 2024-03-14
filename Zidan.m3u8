@@ -56,3 +56,13 @@ http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1 tvg-id="tntsports.com",tnt sports
 http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSPORTS.com",TNT 1
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 tvg-id="TNTSPORTS.com",tnt 2
+https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1 tvg-id="Foxsports.com",FS2
+https://hls.streambtw.com/live/stream_4.m3u8
+#EXTINF:-1 tvg-id="VIAPLAY.com",Via play 
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 tvg-id="goaltv.com", Goal TV
+https://hls.streambtw.com/live/stream_10.m3u8
