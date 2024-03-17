@@ -36,16 +36,8 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 tvg-id="sports18.com",sports 18 
-http://103.151.60.214:7444/1028/video.m3u8
-#EXTINF:-1 tvg-id="starsports.com",star sports 1
-http://103.151.60.214:7444/1014/video.m3u8
-#EXTINF:-1 tvg-id="starsports.com",star sports select 2
-http://103.151.60.214:7444/1017/video.m3u8
 #EXTINF:-1 tvg-id="supersports.com",super sports cricket 
 https://catowrap.live/mrgamingsscric.m3u8
-#EXTINF:-1 tvg-id="dubaisports.ae",dubai sports 2
-http://103.151.60.214:7444/1030/video.m3u8
 #EXTINF:-1 tvg-id="espn.com",espn
 http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina
