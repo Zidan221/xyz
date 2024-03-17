@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="pbc.ps",PALESTINE LIVE
+#EXTINF:-1 tvg-id="pbc.ps",PALESTINE LIVE🇵🇸
 https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930 
-#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,KSA 1
+#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,KSA 1🇸🇦
 https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,MAKKAH
+#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,MAKKAH🇸🇦
 https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (1080p) 🇸🇦
 https://edge.taghtia.com/sa/6.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+#EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)🇶🇦
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa",Al Jazeera English🇶🇦
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-id="QatarTelevision.qa",Qatar Television (720p)
+#EXTINF:-1 tvg-id="QatarTelevision.qa",Qatar Television (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-id="QatarTelevision2.qa",Qatar Television 2 (720p)
+#EXTINF:-1 tvg-id="QatarTelevision2.qa",Qatar Television 2 (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 tvg-id="AmmanTV.jo",Amman TV (720p)
+#EXTINF:-1 tvg-id="AmmanTV.jo",Amman TV (720p)🇯🇴
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-id="JordanTV.jo",Jordan Satellite Channel (1080p)
+#EXTINF:-1 tvg-id="JordanTV.jo",Jordan Satellite Channel (1080p)🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="NablusTV.ps",Nablus TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NablusTV.ps",Nablus TV (720p)🇵🇸
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 tvg-id="ShababFM.ps",Shabab FM (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ShababFM.ps",Shabab FM (720p)🇵🇸
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1,Premier Sports 1
 http://202.21.104.6:88/sps-prime/index.m3u8
@@ -34,17 +34,17 @@ http://202.21.104.6:88/sps-action/index.m3u8
 http://202.21.104.6:88/sps-plus/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com",discovery bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar
+#EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar🇶🇦
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 tvg-id="supersports.com",super sports cricket 
 https://catowrap.live/mrgamingsscric.m3u8
-#EXTINF:-1 tvg-id="espn.com",espn
+#EXTINF:-1 tvg-id="espn.com",espn🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="usa.com",usa live
 http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
-#EXTINF:-1 tvg-id="espn.com",espn 3
+#EXTINF:-1 tvg-id="espn.com",espn 3🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1,tnt sports
 http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
@@ -58,11 +58,13 @@ https://hls.streambtw.com/live/stream_4.m3u8
 https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1,Goal TV
 https://hls.streambtw.com/live/stream_10.m3u8
-#EXTINF:-1,Sport tv 1 portugal
+#EXTINF:-1,Sport tv 1 portugal🇵🇹
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1,sport tv 2 portugal
+#EXTINF:-1,sport tv 2 portugal🇵🇹
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1,sport tv 3 portugal
+#EXTINF:-1,sport tv 3 portugal🇵🇹
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1,sport tv 4 Portugal 
+#EXTINF:-1,sport tv 4 Portugal 🇵🇹
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1,CCTV SPORTS CHINA 🇨🇳
+https://play2nm.hnyongshun.cn/live/hd-zh-ednm9wh2n1deryo.m3u8
