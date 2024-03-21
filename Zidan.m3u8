@@ -36,28 +36,16 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar🇶🇦
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 tvg-id="supersports.com",super sports cricket 
+#EXTINF:-1 tvg-id="supersports.com",super sports cricket🇿🇦
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-id="espn.com",espn🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina
+#EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina🇦🇷
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="usa.com",usa live
 http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1 tvg-id="espn.com",espn 3🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
-#EXTINF:-1,tnt sports
-http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1,TNT 1
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1,tnt 2
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1,FS2
-https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1,Via play 
-https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1,Goal TV
-https://hls.streambtw.com/live/stream_10.m3u8
 #EXTINF:-1,Sport tv 1 portugal🇵🇹
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
 #EXTINF:-1,sport tv 2 portugal🇵🇹
@@ -66,5 +54,32 @@ https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SP
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
 #EXTINF:-1,sport tv 4 Portugal 🇵🇹
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1,CCTV SPORTS CHINA 🇨🇳
-https://play2nm.hnyongshun.cn/live/hd-zh-ednm9wh2n1deryo.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2132
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp" group-title="Sports",Star Sports Select 1
+https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2131
+#EXTINF:-1 tvg-id="ts463" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579790c6cbc4372820a5db4/images/393.webp" group-title="Sports",Star Sports Select 2
+https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2102
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Sports",Star Sports 1 HD
+https://liveb.streamready.in/starsports1hd/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2112
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f196dc5dfc4403f7c0b8/images/473.webp" group-title="Sports",Star Sports 1
+https://liveb.streamready.in/starsports1/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2133
+#EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Sports",Star Sports 2 HD
+https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2114
+#EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797920c5625a16ee72f2d5/images/529.webp" group-title="Sports",Star Sports 2
+https://liveb.streamready.in/starsports2/smil:common.smil/manifest.mpd
