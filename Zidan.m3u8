@@ -78,11 +78,6 @@ https://liveb.streamready.in/starsports1/smil:common.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2133
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Sports",Star Sports 2 HD
 https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2114
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797920c5625a16ee72f2d5/images/529.webp" group-title="Sports",Star Sports 2
-https://liveb.streamready.in/starsports2/smil:common.smil/manifest.mpd
 #EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 ,Via Play Sports 2
@@ -97,12 +92,10 @@ https://is.gd/8Xi5qy
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 ,PTV sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 ,Willow Cricket HD
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+
 #EXTINF:-1 ,Astro 🇲🇾 Cricket HD
 http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 ,Hoster Live 1
-https://sportsleading.online/live/stream_e1.m3u8
+
 #EXTINF:-1 ,Sky Sports Golf.
 http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
 #EXTINF:-1 ,SKY SPORTS GOLF
@@ -121,26 +114,14 @@ http://89.187.167.93:80/live.ts?channelId=153&deviceUser=alex1234&devicePass=ale
 http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 ,GOLTV HD.
 http://45.166.92.22:58001/play/a04k/index.m3u8
-#EXTINF:-1 ,TyCSports HD.
-http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:-1 ,SPORTS TV 1
-http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
-#EXTINF:-1 ,TYC SPORTS
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+
+
 #EXTINF:-1 ,Sports TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,ASTRO SUPER SPORTS
 https://mlb.mrgamingstreams.com/astro.m3u8
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW HD
-https://hls.streambtw.com/live/stream_e1.m3u8
-#EXTINF:-1 group-title="STAR SPORTS",STAR SPORTS 1
-http://103.102.27.173/live/tvfeed1003/index.m3u8
-#EXTINF:-1 group-title="STAR SPORTS",Star Sports 2
-http://103.120.172.74:4200
-#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS 3 NZ
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS 4 NZ
-https://hls.streambtw.com/live/stream_6.m3u8
+
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS (MMNHD)
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS EXTRA
@@ -243,8 +224,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u
 https://mlb.mrgamingstreams.com/hubprem2.m3u8
 #EXTINF:-1 group-title="HUB SPORTS",Hub Premier 2 HD
 https://mlb.mrgamingstreams.com/hubprem3.m3u8
-#EXTINF:-1 group-title="DD SPORTS",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
 #EXTINF:-1 group-title="ABU DUBAI SPORTS",Abu Dhabi Sports 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 #EXTINF:-1 group-title="ABU DUBAI SPORTS",Abu Dhabi Sports 4
