@@ -48,14 +48,7 @@ http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 #EXTINF:-1 tvg-id="espn.com",espn 3🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
-#EXTINF:-1,Sport tv 1 portugal🇵🇹
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1,sport tv 2 portugal🇵🇹
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1,sport tv 3 portugal🇵🇹
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1,sport tv 4 Portugal 🇵🇹
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2132
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp" group-title="Sports",Star Sports Select 1
@@ -71,10 +64,7 @@ http://103.120.172.74:4700
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Sports",Star Sports 1 HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/167575.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2112
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f196dc5dfc4403f7c0b8/images/473.webp" group-title="Sports",Star Sports 1
-https://liveb.streamready.in/starsports1/smil:common.smil/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2133
@@ -90,9 +80,9 @@ https://freeiptv25.netlify.app/live/stream_4.m3u8
 https://catowrap.live/mrgamingmainevent.m3u8
 #EXTINF:-1,SKY Sports Cricket
 https://catowrap.live/mrgamingcric.m3u8
-#EXTINF:-1 ,Via Play Sports 1
+#EXTINF:-1 ,live Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 ,Via Play Sports 2
+#EXTINF:-1 ,live Sports 2
 https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 ,True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
@@ -101,12 +91,9 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 ,SPORTSMAX 1
 https://is.gd/8Xi5qy
 #EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 ,PTV sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
-
-#EXTINF:-1 ,Astro 🇲🇾 Cricket HD
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 
 #EXTINF:-1 ,TNT Sport 1
 https://catowrap.live/mrgamingbtsport1.m3u8
@@ -116,17 +103,6 @@ https://catowrap.live/mrgamingbtsport2.m3u8
 https://catowrap.live/mrgamingbtsport3.m3u8
 #EXTINF:-1,TNT Sports 4
 https://catowrap.live/mrgamingbtsport4.m3u8
-#EXTINF:-1 ,FOXSPORTS 3 HD.
-http://45.166.92.22:58001/play/a01j/index.m3u8
-#EXTINF:-1 ,GOLTV HD.
-http://45.166.92.22:58001/play/a04k/index.m3u8
-
-
-
-#EXTINF:-1 ,Sports TV
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,ASTRO SUPER SPORTS
-https://mlb.mrgamingstreams.com/astro.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS (MMNHD)
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
@@ -180,10 +156,7 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SETENTA SPORTS",Setanta Sports 2 HD 🇷🇺
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
-#EXTINF:-1 group-title="XSPORTS",X SPORT
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 group-title="XSPORTS",X SPORT PLUS
-http://iptv.prosto.tv:7000/ch117/video.m3u8
+
 #EXTINF:-1 group-title="MIX SPORTS",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",QSPORT
