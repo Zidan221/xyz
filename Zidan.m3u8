@@ -34,6 +34,8 @@ http://202.21.104.6:88/sps-action/index.m3u8
 http://202.21.104.6:88/sps-plus/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com",discovery bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1,National Geographic HD (English)
+http://xtv.ooo:8080/live/T4S00515/820172/109977.ts
 #EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar🇶🇦
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 tvg-id="supersports.com",super sports cricket🇿🇦
@@ -62,12 +64,12 @@ https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2131
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579790c6cbc4372820a5db4/images/393.webp" group-title="Sports",Star Sports Select 2
-https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
+http://103.120.172.74:4700
 
 
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2102
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Sports",Star Sports 1 HD
-https://liveb.streamready.in/starsports1hd/smil:common.smil/manifest.mpd
+http://opplex.tv:8080/live/03155515900TG/03155515900TG/167575.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2112
@@ -78,6 +80,16 @@ https://liveb.streamready.in/starsports1/smil:common.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2133
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Sports",Star Sports 2 HD
 https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
+http://103.120.172.74:5500
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
+http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
+#EXTINF:-1,Cric Life 1
+https://freeiptv25.netlify.app/live/stream_4.m3u8
+#EXTINF:-1,SKY Sports Mainevent
+https://catowrap.live/mrgamingmainevent.m3u8
+#EXTINF:-1,SKY Sports Cricket
+https://catowrap.live/mrgamingcric.m3u8
 #EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 ,Via Play Sports 2
@@ -96,20 +108,14 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 ,Astro 🇲🇾 Cricket HD
 http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 
-#EXTINF:-1 ,Sky Sports Golf.
-http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS GOLF
-http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,Sky Sports Racing.
-http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS RACING
-http://89.187.167.92:80/live.ts?channelId=149&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,SKY SPORTS NEWS
-http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=alex1234&uid=21890
 #EXTINF:-1 ,TNT Sport 1
-http://89.187.167.93:80/live.ts?channelId=152&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,TNT SPORTS 1
-http://89.187.167.93:80/live.ts?channelId=153&deviceUser=alex1234&devicePass=alex1234&uid=21890
+https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1,TNT Sports 2
+https://catowrap.live/mrgamingbtsport2.m3u8
+#EXTINF:-1,TNT Sports 3
+https://catowrap.live/mrgamingbtsport3.m3u8
+#EXTINF:-1,TNT Sports 4
+https://catowrap.live/mrgamingbtsport4.m3u8
 #EXTINF:-1 ,FOXSPORTS 3 HD.
 http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 ,GOLTV HD.
@@ -158,6 +164,8 @@ https://hls.streambtw.com/live/stream_4.m3u8
 https://mlb.mrgamingstreams.com/variety2.m3u8
 #EXTINF:-1 group-title="SUPER SPORTS",SUPER SPORTS VARIETY 3
 https://mlb.mrgamingstreams.com/variety3.m3u8
+#EXTINF:-1,Super Sports Cricket
+https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 group-title="TIGO SPORTS",TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DUBAI SPORTS",DUBAI SPORTS
