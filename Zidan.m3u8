@@ -24,6 +24,16 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="ShababFM.ps",Shabab FM (720p)🇵🇸
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1,SSC SPORTS 1🇸🇦
+http://138.201.222.250:1985/stream/SSC-1-720/master.m3u8
+#EXTINF:-1,SSC SPORTS 2🇸🇦
+http://138.201.222.250:1985/stream/SSC-2-720/master.m3u8
+#EXTINF:-1,SSC SPORTS 3🇸🇦
+http://138.201.222.250:1985/stream/SSC-3-720/master.m3u8
+#EXTINF:-1,SSC SPORTS 4 🇸🇦
+http://138.201.222.250:1985/stream/SSC-4-720/master.m3u8
+#EXTINF:-1,SSC SPORTS 5🇸🇦
+http://138.201.222.250:1985/stream/SSC-5-720/master.m3u8
 #EXTINF:-1,Premier Sports 1
 http://202.21.104.6:88/sps-prime/index.m3u8
 #EXTINF:-1,Premier Sports 2
