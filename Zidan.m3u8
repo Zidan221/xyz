@@ -4,10 +4,13 @@
 https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930 
 #EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,KSA 1🇸🇦
 https://edge.taghtia.com/sa/2.m3u8
+https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,MAKKAH🇸🇦
 https://edge.taghtia.com/sa/7.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (1080p) 🇸🇦
 https://edge.taghtia.com/sa/6.m3u8
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)🇶🇦
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa",Al Jazeera English🇶🇦
