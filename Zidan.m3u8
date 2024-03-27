@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="pbc.ps",PALESTINE LIVE🇵🇸
 https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930 
-#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,KSA 1🇸🇦
+#EXTINF:-1 tvg-id="saudiatv.sa",KSA 1🇸🇦
 https://edge.taghtia.com/sa/2.m3u8
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,MAKKAH🇸🇦
