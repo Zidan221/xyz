@@ -83,9 +83,13 @@ http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina🇦🇷
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+https://catowrap.live/mrgamingtyc.m3u8
 
 #EXTINF:-1 tvg-id="espn.com",espn 3🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+
+#EXTINF:-1 tvg-id="espn.com",espn english🇺🇸
+https://catowrap.live/mrgamingespn.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2132
@@ -127,6 +131,9 @@ https://catowrap.live/mrgamingmainevent.m3u8
 #EXTINF:-1,SKY Sports Cricket
 https://catowrap.live/mrgamingcric.m3u8
 
+#EXTINF:-1,SkY Sports Mix
+https://catowrap.live/mrgamingmix.m3u8
+
 #EXTINF:-1 ,True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
@@ -151,6 +158,12 @@ https://catowrap.live/mrgamingbtsport3.m3u8
 
 #EXTINF:-1,TNT Sports 4
 https://catowrap.live/mrgamingbtsport4.m3u8
+
+#EXTINF:-1,Super Sports Cricket
+https://catowrap.live/mrgamingsscric.m3u8
+
+#EXTINF:-1,Super Sports Premier League 
+https://catowrap.live/mrgamingpremier.m3u8
 
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS EXTRA
@@ -183,9 +196,6 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1 group-title="TRUE SPORTS",True Sports Premier 2
 https://edge1.laotv.la/live/TSport2/index.m3u8
-
-#EXTINF:-1,Super Sports Cricket
-https://catowrap.live/mrgamingsscric.m3u8
 
 #EXTINF:-1 group-title="MIX SPORTS",MOROCCO SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
