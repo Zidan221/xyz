@@ -39,7 +39,7 @@ https://playlist.fasttvcdn.com/pl/a0zosjyustzzcifsixyxjw/ammanfasttv5/playlist/2
 #EXTINF:-1 tvg-id="AmmanTV.net",Amman TV 3 🇯🇴
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
-#EXTINF:-1 tvg-id="JordanTV.jo",Jordan Satellite Channel (1080p)🇯🇴
+#EXTINF:-1 tvg-id="https://www.jrtv.gov.jo/live-tv/%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89/1",Jordan Satellite Channel (1080p)🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
 #EXTINF:-1 tvg-id="NablusTV.ps",Nablus TV (720p)🇵🇸
