@@ -17,6 +17,9 @@ https://edge.taghtia.com/sa/6.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
+#EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar🇶🇦
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)🇶🇦
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 
@@ -29,13 +32,7 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision2.qa",Qatar Television 2 (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 
-#EXTINF:-1 tvg-id="AmmanTV.net",Amman TV 1🇯🇴
-https://playlist.fasttvcdn.com/pl/a0zosjyustzzcifsixyxjw/ammanfasttv3/playlist/1.m3u8?rid=28335a7bea6102fabb6e34dc8468ff4d&bvr_flags=2&bvr_ch=&bvr_bw=1500000&st=U11dFJmjW2IEUUnUhqU6VA&e=1711714550
-
-#EXTINF:-1 tvg-id="AmmanTV.net",Amman TV 2 🇯🇴
-https://playlist.fasttvcdn.com/pl/a0zosjyustzzcifsixyxjw/ammanfasttv5/playlist/2.m3u8?rid=f665da8177cce2e9daa7ad9f31fee0ba&bvr_flags=2&bvr_ch=&bvr_bw=1000000&st=mmm-lPXNVHigjEpvVkzUaQ&e=1711714141
-
-#EXTINF:-1 tvg-id="AmmanTV.net",Amman TV 3 🇯🇴
+#EXTINF:-1 tvg-id="AmmanTV.net",Amman TV 🇯🇴
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 #EXTINF:-1 tvg-id="https://www.jrtv.gov.jo/live-tv/%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89/1",Jordan Satellite Channel (1080p)🇯🇴
@@ -75,9 +72,6 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1,National Geographic HD (English)
 http://xtv.ooo:8080/live/T4S00515/820172/109977.ts
-
-#EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar🇶🇦
-https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-1 tvg-id="supersports.com",super sports cricket🇿🇦
 https://catowrap.live/mrgamingsscric.m3u8
