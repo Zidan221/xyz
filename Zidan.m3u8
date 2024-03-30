@@ -54,6 +54,13 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64Mz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
+https://webudit.webhd.ru/lb/premium123/index.m3u8?|Referer=https://weblivehdplay.ru/
+
+#EXTINF:-1,SSC EXTRA 1
+https://webudit.webhd.ru/lb/premium5/index.m3u8?|Referer=https://weblivehdplay.ru/
+
+#EXTINF:-1,SSC EXTRA 2
+https://webudit.webhd.ru/lb/premium12/index.m3u8?|Referer=https://weblivehdplay.ru/
 
 #EXTINF:-1,Premier Sports 1
 http://202.21.104.6:88/sps-prime/index.m3u8
@@ -211,10 +218,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN sports 1
 https://edge1.laotv.la/live/Bsport1/index.m3u8
+https://webudit.webhd.ru/lb/premium91/index.m3u8?|Referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN sports 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
-
+https://webudit.webhd.ru/lb/premium92/index.m3u8?|Referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 group-title="TRUE SPORTS",TRUE SPORTS 1
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
