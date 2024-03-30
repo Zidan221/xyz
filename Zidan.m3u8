@@ -15,7 +15,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Medina (1080p) 🇸🇦
 https://edge.taghtia.com/sa/6.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-https://cdn5.mjunoon.tv:8087/web/SaudiSunnah-141/live/141H/chunks.m3u8?nimblesessionid=383970890&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDI0IDExOjUzOjQ4IEFNJmhhc2hfdmFsdWU9Qk5nQm9rQ2pFLy8rZWg5anczZ2d3Zz09JnZhbGlkbWludXRlcz0x
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)🇶🇦
@@ -54,6 +53,11 @@ https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b800000
 #EXTINF:-1 tvg-id="https://www.media.gov.kw/LiveTV.aspx",kuwait sports🇰🇼
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="SPORTS", SSC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
+
 #EXTINF:-1,Premier Sports 1
 http://202.21.104.6:88/sps-prime/index.m3u8
 
@@ -78,15 +82,20 @@ https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 tvg-id="supersports.com",super sports cricket🇿🇦
 https://catowrap.live/mrgamingsscric.m3u8
 
-#EXTINF:-1 tvg-id="espn.com",espn🇪🇸
-http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzCgrCInyYxx6_Wwj-ldU2Cwm9C-m6LApOQ&usqp=CAU" group-title="SPORTS", ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://futebolplayhd.com/
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina🇦🇷
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-https://catowrap.live/mrgamingtyc.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrcZC751CM8FzhluTURvOEVEHRQK2pm4t13w&usqp=CAU" group-title="SPORTS", ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://futebolplayhd.com/
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="espn.com",espn 3🇪🇸
 http://stream.flynetwifi.com:1935/live/mobile-121/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4[2].png" group-title="SPORTS", ESPN 4
 
 #EXTINF:-1 tvg-id="espn.com",espn english🇺🇸
 https://catowrap.live/mrgamingespn.m3u8
@@ -96,13 +105,14 @@ https://catowrap.live/mrgamingespn.m3u8
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp" group-title="Sports",Star Sports Select 1
 https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 http://172.20.2.5:8082/Star-Select-1/index.fmp4.m3u8
+http://xtv.ooo:8080/live/122461/4627451/167578.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2131
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579790c6cbc4372820a5db4/images/393.webp" group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 http://172.20.2.5:8082/Star-Select-2/index.fmp4.m3u8
-
+http://xtv.ooo:8080/live/122461/4627451/167579.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2102
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Sports",Star Sports 1 HD
@@ -115,6 +125,7 @@ http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Sports",Star Sports 2 HD
 https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
 http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8
+http://xtv.ooo:8080/live/122461/4627451/167576.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
 http://103.120.172.74:5500
@@ -124,6 +135,10 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
 
 #EXTINF:-1,Cric Life 1
 https://freeiptv25.netlify.app/live/stream_4.m3u8
+
+#EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina🇦🇷
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+https://catowrap.live/mrgamingtyc.m3u8
 
 #EXTINF:-1,SKY Sports Mainevent
 https://catowrap.live/mrgamingmainevent.m3u8
@@ -170,6 +185,16 @@ http://202.150.161.68/spotv1/index.m3u8
 
 #EXTINF:-1,SPOTV 2
 http://202.150.161.68/spotv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hkU20hCa4zm1D6QhOXzbP8Muxw8YARIG0Q&usqp=CAU" group-title="SPORTS", SPORTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://futebolplayhd.com/
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMDERRTRWwNNDwhwCyiiz9yNeklRS5Bpl6g&usqp=CAU" group-title="SPORTS", SPORTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://futebolplayhd.com/
+https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimittrueofileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
