@@ -130,6 +130,21 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
 #EXTINF:-1,Cric Life 1
 https://freeiptv25.netlify.app/live/stream_4.m3u8
 
+#EXTINF:-1,ASTRO CRICKET 
+http://xtv.ooo:8080/live/122461/4627451/167581.m3u8
+
+#EXTINF:-1,WILLOW HD
+http://xtv.ooo:8080/live/122461/4627451/167582.m3u8
+
+#EXTINF:-1,EURO SPORTS 
+http://xtv.ooo:8080/live/122461/4627451/167585.m3u8
+
+#EXTINF:-1,TEN CRICKET 
+http://xtv.ooo:8080/live/122461/4627451/167587.m3u8
+
+#EXTINF:-1,FOX 501
+http://xtv.ooo:8080/live/122461/4627451/167593.m3u8
+
 #EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina🇦🇷
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 https://catowrap.live/mrgamingtyc.m3u8
@@ -155,6 +170,7 @@ https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 ,PTV sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 http://114.130.96.165:8080/1018/tracks-v1a1/index.m3u8
+http://xtv.ooo:8080/live/122461/4627451/167567.m3u8
 
 #EXTINF:-1 ,TNT Sport 1
 https://catowrap.live/mrgamingbtsport1.m3u8
