@@ -55,11 +55,20 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64Mz
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
 
+#EXTINF:-1,SSC 2
+https://webudit.webhd.ru/lb/premium615/index.m3u8?|Referer=https://weblivehdplay.ru/
+
+#EXTINF:-1,SSC 5
+https://webudit.webhd.ru/lb/premium618/index.m3u8?|Referer=https://weblivehdplay.ru/
+
 #EXTINF:-1,SSC EXTRA 1
-https://webudit.webhd.ru/lb/premium5/index.m3u8?|Referer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium619/index.m3u8?|Referer=https://weblivehdplay.ru/
 
 #EXTINF:-1,SSC EXTRA 2
-https://webudit.webhd.ru/lb/premium12/index.m3u8?|Referer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium620/index.m3u8?|Referer=https://weblivehdplay.ru/
+
+#EXTINF:-1,SSC EXTARA 3
+https://webudit.webhd.ru/lb/premium621/index.m3u8?|Referer=https://weblivehdplay.ru/
 
 #EXTINF:-1,Premier Sports 1
 http://202.21.104.6:88/sps-prime/index.m3u8
@@ -138,6 +147,8 @@ https://freeiptv25.netlify.app/live/stream_4.m3u8
 
 #EXTINF:-1,ASTRO CRICKET 
 http://xtv.ooo:8080/live/122461/4627451/167581.m3u8
+#EXTINF:-1,WILLO HD
+https://webudit.webhd.ru/lb/premium598/index.m3u8?|Referer=https://weblivehdplay.ru/
 
 #EXTINF:-1,WILLO EXTRA
 http://xtv.ooo:8080/live/122461/4627451/167582.m3u8
@@ -174,9 +185,10 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 https://catowrap.live/mrgamingcbs.m3u8
 
 #EXTINF:-1 ,PTV sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
+https://webudit.webhd.ru/lb/premium450/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://114.130.96.165:8080/1018/tracks-v1a1/index.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167567.m3u8
+
 
 #EXTINF:-1 ,TNT Sport 1
 https://catowrap.live/mrgamingbtsport1.m3u8
@@ -196,11 +208,23 @@ https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1,Super Sports Premier League 
 https://catowrap.live/mrgamingpremier.m3u8
 
+#EXTINF:-1,Super Sports laliga
+https://webudit.webhd.ru/lb/premium415/index.m3u8?|Referer=https://weblivehdplay.ru/
+
 #EXTINF:-1,SPOTV 1
 http://202.150.161.68/spotv1/index.m3u8
 
 #EXTINF:-1,SPOTV 2
 http://202.150.161.68/spotv2/index.m3u8
+
+#EXTINF:-1,DAZN 1
+https://webudit.webhd.ru/lb/premium445/index.m3u8?|Referer=https://weblivehdplay.ru/
+
+#EXTINF:-1,DAZN 3
+https://webudit.webhd.ru/lb/premium447/index.m3u8?|Referer=https://weblivehdplay.ru/
+
+#EXTINF:-1,FOOT+
+https://webudit.webhd.ru/lb/premium463/index.m3u8?|Referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hkU20hCa4zm1D6QhOXzbP8Muxw8YARIG0Q&usqp=CAU" group-title="SPORTS", SPORTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
