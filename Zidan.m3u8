@@ -11,11 +11,34 @@ https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/inde
 https://edge.taghtia.com/sa/7.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
+  {
+    "name": "MAKKAH 2",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/quran_tv/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/613/logo/240x240/mobile_logo_192652001655891524.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1712037705:KeyName=prod_linear:Signature=xQui-iDwAarMG7bE81vp20wq9C9R9vm84BiPEpGulYJLhqtAYs1Tq6PWDS9_LW3NCJkDizzibMQkoQAxqpOEBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Medina (1080p) 🇸🇦
 https://edge.taghtia.com/sa/6.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+{
+    "name": "MADINA 2",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sunnah_tv/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/610/logo/240x240/mobile_logo_677105001655891492.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1712037705:KeyName=prod_linear:Signature=xQui-iDwAarMG7bE81vp20wq9C9R9vm84BiPEpGulYJLhqtAYs1Tq6PWDS9_LW3NCJkDizzibMQkoQAxqpOEBQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 
 #EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar🇶🇦
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
@@ -144,11 +167,17 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
 
 #EXTINF:-1,Cric Life 1
 https://freeiptv25.netlify.app/live/stream_4.m3u8
+http://xtv.ooo:8080/03155515900TG/03155515900TG/371469
+
+#EXTINF:-1,Cric life 2 
+http://xtv.ooo:8080/03155515900TG/03155515900TG/371470
 
 #EXTINF:-1,ASTRO CRICKET 
 http://xtv.ooo:8080/live/122461/4627451/167581.m3u8
+
 #EXTINF:-1,WILLO HD
 https://webudit.webhd.ru/lb/premium598/index.m3u8?|Referer=https://weblivehdplay.ru/
+http://xtv.ooo:8080/shahz18/18usman/167583
 
 #EXTINF:-1,WILLO EXTRA
 http://xtv.ooo:8080/live/122461/4627451/167582.m3u8
