@@ -158,11 +158,11 @@ http://xtv.ooo:8080/03155515900TG/03155515900TG/371470
 #EXTINF:-1,ASTRO CRICKET 
 http://xtv.ooo:8080/live/122461/4627451/167581.m3u8
 
-#EXTINF:-1,WILLO HD
+#EXTINF:-1,WILLOW HD
 https://webudit.webhd.ru/lb/premium598/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://xtv.ooo:8080/shahz18/18usman/167583
 
-#EXTINF:-1,WILLO EXTRA
+#EXTINF:-1,WILLOW EXTRA
 http://xtv.ooo:8080/live/122461/4627451/167582.m3u8
 
 #EXTINF:-1,EURO SPORTS 
@@ -175,8 +175,8 @@ http://xtv.ooo:8080/live/122461/4627451/167587.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167593.m3u8
 
 #EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina🇦🇷
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-https://catowrap.live/mrgamingtyc.m3u8
+#http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#https://catowrap.live/mrgamingtyc.m3u8
 
 #EXTINF:-1,SKY Sports Mainevent
 https://catowrap.live/mrgamingmainevent.m3u8
