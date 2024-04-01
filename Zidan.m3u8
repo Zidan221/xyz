@@ -175,8 +175,8 @@ http://xtv.ooo:8080/live/122461/4627451/167587.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167593.m3u8
 
 #EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina🇦🇷
-#http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#https://catowrap.live/mrgamingtyc.m3u8
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+https://catowrap.live/mrgamingtyc.m3u8
 
 #EXTINF:-1,SKY Sports Mainevent
 https://catowrap.live/mrgamingmainevent.m3u8
