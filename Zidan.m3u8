@@ -51,28 +51,28 @@ https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b800000
 #EXTINF:-1 tvg-id="https://www.media.gov.kw/LiveTV.aspx",kuwait sports🇰🇼
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="SPORTS", SSC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU", SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
 
-#EXTINF:-1,SSC 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU",SSC 2
 https://webudit.webhd.ru/lb/premium615/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54800.m3u8
 
-#EXTINF:-1,SSC 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU",SSC 5
 https://webudit.webhd.ru/lb/premium618/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54803.m3u8
 
-#EXTINF:-1,SSC EXTRA 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU",SSC EXTRA 1
 https://webudit.webhd.ru/lb/premium619/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54804.m3u8
 
-#EXTINF:-1,SSC EXTRA 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU",SSC EXTRA 2
 https://webudit.webhd.ru/lb/premium620/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54805.m3u8
 
-#EXTINF:-1,SSC EXTARA 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU",SSC EXTARA 3
 https://webudit.webhd.ru/lb/premium621/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54806.m3u8
 
