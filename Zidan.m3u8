@@ -82,12 +82,6 @@ http://202.21.104.6:88/sps-prime/index.m3u8
 #EXTINF:-1,Premier Sports 2
 http://202.21.104.6:88/sps-play/index.m3u8
 
-#EXTINF:-1,Premier Sports 4
-http://202.21.104.6:88/sps-action/index.m3u8
-
-#EXTINF:-1,Premier Sports 5
-http://202.21.104.6:88/sps-plus/index.m3u8
-
 #EXTINF:-1 tvg-id="discovery.com",discovery bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
@@ -150,10 +144,9 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
 
 #EXTINF:-1,Cric Life 1
 https://freeiptv25.netlify.app/live/stream_4.m3u8
-http://xtv.ooo:8080/03155515900TG/03155515900TG/371469
 
-#EXTINF:-1,Cric life 2 
-http://xtv.ooo:8080/03155515900TG/03155515900TG/371470
+#EXTINF:-1,LIVE sports
+https://a2uy.short.gy/NAM-V-OMA/Zubayer-Op.m3u8
 
 #EXTINF:-1,ASTRO CRICKET 
 http://xtv.ooo:8080/live/122461/4627451/167581.m3u8
