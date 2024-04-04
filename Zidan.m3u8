@@ -222,14 +222,6 @@ http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:-1,SPOTV 2
 http://202.150.161.68/spotv2/index.m3u8
 
-#EXTINF:-1,DAZN 1
-https://webudit.webhd.ru/lb/premium445/index.m3u8?|Referer=https://weblivehdplay.ru/
-
-#EXTINF:-1,DAZN 3
-https://webudit.webhd.ru/lb/premium447/index.m3u8?|Referer=https://weblivehdplay.ru/
-
-#EXTINF:-1,FOOT+
-https://webudit.webhd.ru/lb/premium463/index.m3u8?|Referer=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hkU20hCa4zm1D6QhOXzbP8Muxw8YARIG0Q&usqp=CAU" group-title="SPORTS", SPORTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
