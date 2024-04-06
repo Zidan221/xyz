@@ -128,6 +128,7 @@ http://xtv.ooo:8080/live/122461/4627451/167579.m3u8
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/167575.ts
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/109987.ts
 http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=155968&extension=ts&play_token=sf5sNQxbrB
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2133
@@ -135,6 +136,7 @@ http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8
 https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
 http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167576.m3u8
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114581&extension=ts&play_token=SwWS8kMgbT
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
 http://103.120.172.74:5500
