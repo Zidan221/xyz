@@ -88,7 +88,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1,National Geographic HD (English)
 http://xtv.ooo:8080/live/T4S00515/820172/109977.ts
 
-#EXTINF:-1 tvg-id="supersports.com",super sports cricket🇿🇦
+EXTINF:-1 tvg-id="supersports.com",super sports cricket🇿🇦
 https://catowrap.live/mrgamingsscric.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzCgrCInyYxx6_Wwj-ldU2Cwm9C-m6LApOQ&usqp=CAU" group-title="SPORTS", ESPN
@@ -106,7 +106,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="espn.com",espn english🇺🇸
+EXTINF:-1 tvg-id="espn.com",espn english🇺🇸
 https://catowrap.live/mrgamingespn.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
