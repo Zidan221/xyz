@@ -144,6 +144,7 @@ http://119.152.21.12:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
+http://121.91.61.106:8000/play/a03o/index.m3u8
 
 #EXTINF:-1,Cric Life 1
 https://freeiptv25.netlify.app/live/stream_4.m3u8
@@ -202,7 +203,7 @@ https://catowrap.live/mrgamingcbs.m3u8
 https://webudit.webhd.ru/lb/premium450/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://114.130.96.165:8080/1018/tracks-v1a1/index.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167567.m3u8
-http://121.91.61.106:8000/play/a03o/index.m3u8
+
 
 
 #EXTINF:-1 ,TNT Sport 1
