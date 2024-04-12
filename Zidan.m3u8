@@ -115,14 +115,14 @@ https://catowrap.live/mrgamingespn.m3u8
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp" group-title="Sports",Star Sports Select 1
 https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 http://172.20.2.5:8082/Star-Select-1/index.fmp4.m3u8
-
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114583&extension=ts&play_token=9sVyHjbjBn
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2131
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579790c6cbc4372820a5db4/images/393.webp" group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 http://172.20.2.5:8082/Star-Select-2/index.fmp4.m3u8
-
+http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114584&extension=ts&play_token=F3F69ufJDw
 
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2102
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Sports",Star Sports 1 HD
