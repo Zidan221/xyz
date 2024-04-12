@@ -209,7 +209,7 @@ http://xtv.ooo:8080/live/122461/4627451/167567.m3u8
 
 
 
-EXTINF:-1 ,TNT Sport 1
+#EXTINF:-1 ,TNT Sport 1
 https://salamus2023.onlinehdhls.ru/ddh2/premium30/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
 #EXTINF:-1 group-title="24/7 2201 1703" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",32 - TNT Sports 2 UK
