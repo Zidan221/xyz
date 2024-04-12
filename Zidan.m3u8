@@ -227,7 +227,7 @@ https://catowrap.live/mrgamingsscric.m3u8
 EXTINF:-1,Super Sports Premier League 
 https://catowrap.live/mrgamingpremier.m3u8
 
-#EXTINF:-1,Super Sports laliga
+#EXTINF:-1 ,Super Sports laliga
 https://salamus2023.onlinehdhls.ru/ddh2/premium31/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
 #EXTINF:-1,SPOTV 1
