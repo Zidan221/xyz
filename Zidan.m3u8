@@ -115,14 +115,14 @@ https://catowrap.live/mrgamingespn.m3u8
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp" group-title="Sports",Star Sports Select 1
 https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 http://172.20.2.5:8082/Star-Select-1/index.fmp4.m3u8
-http://xtv.ooo:8080/live/122461/4627451/167578.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2131
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579790c6cbc4372820a5db4/images/393.webp" group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 http://172.20.2.5:8082/Star-Select-2/index.fmp4.m3u8
-http://xtv.ooo:8080/live/122461/4627451/167579.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2102
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Sports",Star Sports 1 HD
@@ -235,6 +235,24 @@ http://202.150.161.68/spotv1/index.m3u8
 
 #EXTINF:-1,SPOTV 2
 http://202.150.161.68/spotv2/index.m3u8
+
+#EXTINF:-1,ARENA SPORT 1
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+
+#EXTINF:-1,ARENA SPORT 2
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+
+#EXTINF:-1,ARENA SPORT 3
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+
+#EXTINF:-1,ARENA SPORT 4
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+
+#EXTINF:-1,ARENA SPORT 5
+http://80.252.37.194:5000/udp/233.233.233.7:12000
+
+#EXTINF:-1,ARENA SPORT 6
+http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hkU20hCa4zm1D6QhOXzbP8Muxw8YARIG0Q&usqp=CAU" group-title="SPORTS", SPORTV
