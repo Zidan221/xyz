@@ -10,13 +10,13 @@ https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/inde
 #EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,MAKKAH🇸🇦
 https://edge.taghtia.com/sa/7.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-http://162.212.178.70:4442/bysid/8.ts
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
   
 
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Medina (1080p) 🇸🇦
 https://edge.taghtia.com/sa/6.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-http://162.212.178.70:4442/bysid/9.ts
+https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
 #EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar🇶🇦
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
