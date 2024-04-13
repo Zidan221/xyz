@@ -206,14 +206,17 @@ https://salamus2023.onlinehdhls.ru/ddh2/premium35/playlist.m3u8|Origin=https://c
 EXTINF:-1,Super Sports Cricket
 https://catowrap.live/mrgamingsscric.m3u8
 
-EXTINF:-1,Super Sports Premier League 
+#EXTINF:-1,Super Sports Premier League 
 https://catowrap.live/mrgamingpremier.m3u8
+https://ovo.eelov.com/live/n-2/chunks.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",343 - USA Network
+#EXTINF:-1,USA Network
 https://salamus2023.onlinehdhls.ru/ddh2/premium343/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
+https://ovo.eelov.com/live/n-4/chunks.m3u8
 
-EXTINF:-1 ,Super Sports laliga
+#EXTINF:-1 ,Super Sports laliga
 https://salamus2023.onlinehdhls.ru/ddh2/premium31/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
+https://ovo.eelov.com/live/n-5/chunks.m3u8
 
 #EXTINF:-1,SPOTV 1
 http://202.150.161.68/spotv1/index.m3u8
