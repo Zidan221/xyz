@@ -130,6 +130,7 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/167575.ts
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/109987.ts
 http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8
 http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=155968&extension=ts&play_token=sf5sNQxbrB
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2133
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Sports",Star Sports 2 HD
@@ -137,12 +138,15 @@ https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
 http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167576.m3u8
 http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114581&extension=ts&play_token=SwWS8kMgbT
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
 http://103.120.172.74:5500
 http://119.152.21.12:8000/play/a016/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
 http://121.91.61.106:8000/play/a03o/index.m3u8
+
 #EXTINF:-1,Cric Life 1
 https://freeiptv25.netlify.app/live/stream_4.m3u8
 EXTINF:-1,LIVE sports
@@ -159,10 +163,12 @@ http://xtv.ooo:8080/live/122461/4627451/167585.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167587.m3u8
 #EXTINF:-1,TEN SPORTS
 http://121.91.61.106:8000/play/a04h/index.m3u8
-#EXTINF:-1,FOX 501
+
+EXTINF:-1,FOX 501
 http://xtv.ooo:8080/live/122461/4627451/167593.m3u8
 #EXTINF:-1,Real madrid tv 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
+
 #EXTINF:-1 tvg-id="tycsports.com",tyc sports Argentina🇦🇷
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
@@ -183,18 +189,18 @@ https://salamus2023.onlinehdhls.ru/ddy1/premium308/playlist.m3u8|Origin=https://
 https://webudit.webhd.ru/lb/premium450/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://114.130.96.165:8080/1018/tracks-v1a1/index.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167567.m3u8
-#EXTINF:-1,TNT Sport 1
+EXTINF:-1,TNT Sport 1
 https://salamus2023.onlinehdhls.ru/ddh2/premium30/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
-#EXTINF:-1 group-title="24/7 2201 1703" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",32 - TNT Sports 2 UK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",32 - TNT Sports 2 UK
 https://salamus2023.onlinehdhls.ru/ddh2/premium32/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
-#EXTINF:-1 group-title="24/7 2201 1703" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",33 - TNT Sports 3 UK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",33 - TNT Sports 3 UK
 https://salamus2023.onlinehdhls.ru/ddh2/premium33/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
 EXTINF:-1,TNT Sports 4
 https://catowrap.live/mrgamingbtsport4.m3u8
 
-#EXTINF:-1 group-title="24/7 2201 1703" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",35 - Sky Sports Football UK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",35 - Sky Sports Football UK
 https://salamus2023.onlinehdhls.ru/ddh2/premium35/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
 EXTINF:-1,Super Sports Cricket
@@ -203,10 +209,10 @@ https://catowrap.live/mrgamingsscric.m3u8
 EXTINF:-1,Super Sports Premier League 
 https://catowrap.live/mrgamingpremier.m3u8
 
-#EXTINF:-1 group-title="24/7 2201 1703" tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",343 - USA Network
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",343 - USA Network
 https://salamus2023.onlinehdhls.ru/ddh2/premium343/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
-#EXTINF:-1 ,Super Sports laliga
+EXTINF:-1 ,Super Sports laliga
 https://salamus2023.onlinehdhls.ru/ddh2/premium31/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
 #EXTINF:-1,SPOTV 1
