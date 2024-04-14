@@ -112,20 +112,20 @@ https://catowrap.live/mrgamingespn.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2132
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp" group-title="Sports",Star Sports Select 1
+EXTINF:-1 tvg-id="ts246" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797933ac7f66229607beaf/images/394.webp" group-title="Sports",Star Sports Select 1
 https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 http://172.20.2.5:8082/Star-Select-1/index.fmp4.m3u8
 http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114583&extension=ts&play_token=9sVyHjbjBn
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2131
-#EXTINF:-1 tvg-id="ts463" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579790c6cbc4372820a5db4/images/393.webp" group-title="Sports",Star Sports Select 2
+EXTINF:-1 tvg-id="ts463" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579790c6cbc4372820a5db4/images/393.webp" group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 http://172.20.2.5:8082/Star-Select-2/index.fmp4.m3u8
 http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114584&extension=ts&play_token=F3F69ufJDw
 
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2102
-#EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Sports",Star Sports 1 HD
+EXTINF:-1 tvg-id="ts78" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a7c5625a16ee72e958/images/402.webp" group-title="Sports",Star Sports 1 HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/167575.ts
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/109987.ts
 http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8
@@ -133,7 +133,7 @@ http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=155968&ex
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2133
-#EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Sports",Star Sports 2 HD
+EXTINF:-1 tvg-id="ts235" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65797986a9540e6b3ede47bf/images/607.webp" group-title="Sports",Star Sports 2 HD
 https://liveb.streamready.in/starsports2hd/smil:common.smil/manifest.mpd
 http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167576.m3u8
@@ -294,6 +294,8 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8
 
 #EXTINF:-1 group-title="SPORTTV",Sports tv
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/pLrjPsGJ/btv.png",BTV
 http://mag.trexlive.me:80/Michael88/Michael88/225734
@@ -499,3 +501,80 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/VLKNzfRm/Varendra-TV.jpg",Varendra TV [Jagobd]
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/live-orgin/varendratv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="eurosporthd.hr" tvg-logo="" group-title="CRICKET",EUROSPORTS HD 
+http://zeestb1.online/tata.php?id=806
+#EXTINF:-1 tvg-id="eurosporthd.hr" tvg-logo="" group-title="CRICKET",EUROSPORTS 4K 
+http://zeestb1.online/tata.php?id=12143
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="" group-title="CRICKET",ASTRO CRICKET 
+http://zeestb1.online/tata.php?id=206091
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="" group-title="CRICKET",SUPER SPORTS 4K 
+http://zeestb1.online/tata.php?id=12167
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="" group-title="CRICKET",SUPERSPORT GRANDSTAND 
+http://zeestb1.online/tata.php?id=58140
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="" group-title="CRICKET",SKY SPORTS CRICKET 4K UK 
+http://zeestb1.online/tata.php?id=8894
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-logo="" group-title="CRICKET",WILLOW SPORTS 4K 
+http://zeestb1.online/tata.php?id=12161
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="" group-title="CRICKET",FLOW SPORTS CRICKET 
+http://zeestb1.online/tata.php?id=50011
+#EXTINF:-1 tvg-id="starsports1.in" tvg-logo="" group-title="CRICKET",STAR SPORTS 1 4K 
+http://zeestb1.online/tata.php?id=12148
+#EXTINF:-1 tvg-id="starsports1hindi.in" tvg-logo="" group-title="CRICKET",STAR SPORTS 1 HINDI 4K 
+http://zeestb1.online/tata.php?id=12149
+#EXTINF:-1 tvg-id="starsports2.in" tvg-logo="" group-title="CRICKET",STAR SPORTS 2 4K 
+http://zeestb1.online/tata.php?id=12150
+#EXTINF:-1 tvg-id="starsports3.in" tvg-logo="" group-title="CRICKET",STAR SPORTS 3 HINDI HD 
+http://zeestb1.online/tata.php?id=12155
+#EXTINF:-1 tvg-id="starsports1kannada.in" tvg-logo="" group-title="CRICKET",STAR SPORTS 1 KANNADA HD 
+http://zeestb1.online/tata.php?id=12153
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-logo="" group-title="CRICKET",STAR SPORTS 1 TAMIL HD 
+http://zeestb1.online/tata.php?id=12154
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="" group-title="CRICKET",ASTRO CRICKET 4K 
+http://zeestb1.online/tata.php?id=12141
+#EXTINF:-1 tvg-id="Sports" tvg-logo="" group-title="CRICKET",T SPORTS BANGLA 
+http://zeestb1.online/tata.php?id=12104
+#EXTINF:-1 tvg-id="starsportsselect1.in" tvg-logo="" group-title="CRICKET",STAR SPORTS SELECT 1 4K 
+http://zeestb1.online/tata.php?id=12151
+#EXTINF:-1 tvg-id="starsportsselect2.in" tvg-logo="" group-title="CRICKET",STAR SPORTS SELECT 2 4K 
+http://zeestb1.online/tata.php?id=12152
+#EXTINF:-1 tvg-id="foxsports505.au" tvg-logo="" group-title="CRICKET",FOX SPORTS 505 
+http://zeestb1.online/tata.php?id=58137
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="" group-title="CRICKET",FOX SPORTS 507 
+http://zeestb1.online/tata.php?id=58138
+#EXTINF:-1 tvg-id="foxsports501.au" tvg-logo="" group-title="CRICKET",FOX SPORTS 
+http://zeestb1.online/tata.php?id=28140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CRICKET",FOX SPORTS 3 
+http://zeestb1.online/tata.php?id=58139
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-logo="" group-title="CRICKET",US WILLOW CRICKET HD 
+http://zeestb1.online/tata.php?id=12169
+#EXTINF:-1 tvg-id="willowxtra.us" tvg-logo="" group-title="CRICKET",US WILLOW EXTRA HD 
+http://zeestb1.online/tata.php?id=12170
+#EXTINF:-1 tvg-id="sonysix.in" tvg-logo="" group-title="CRICKET",SONY SIX 4K 
+http://zeestb1.online/tata.php?id=12144
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-logo="" group-title="CRICKET",SONY TEN 1 4K 
+http://zeestb1.online/tata.php?id=12145
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-logo="" group-title="CRICKET",SONY TEN 2 4K 
+http://zeestb1.online/tata.php?id=12146
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-logo="" group-title="CRICKET",SONY TEN 3 4K 
+http://zeestb1.online/tata.php?id=12147
+#EXTINF:-1 tvg-id="Sports" tvg-logo="" group-title="CRICKET",SONY TEN 4 4k 
+http://zeestb1.online/tata.php?id=12173
+#EXTINF:-1 tvg-id="ddsports.in" tvg-logo="" group-title="CRICKET",DD SPORTS. 
+http://zeestb1.online/tata.php?id=12171
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="" group-title="CRICKET",A SPORTS 
+http://zeestb1.online/tata.php?id=30975
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="" group-title="CRICKET",GEO SUPER 
+http://zeestb1.online/tata.php?id=12164
+#EXTINF:-1 tvg-id="Sports" tvg-logo="" group-title="CRICKET",PTV SPORTS. 
+http://zeestb1.online/tata.php?id=12172
+#EXTINF:-1 tvg-id="Sports" tvg-logo="" group-title="CRICKET",TEN SPORTS 
+http://zeestb1.online/tata.php?id=12166
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="" group-title="CRICKET",SKY SPORTS 4K 
+http://zeestb1.online/tata.php?id=2956
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="" group-title="CRICKET",CRICKET MAX 
+http://zeestb1.online/tata.php?id=42051
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="" group-title="CRICKET",ATN CRICKET PLUS 
+http://zeestb1.online/tata.php?id=43933
+#EXTINF:-1 tvg-id="DEFAULT" tvg-logo="" group-title="CRICKET",ATN SPORTS CA 
+http://zeestb1.online/tata.php?id=8651
