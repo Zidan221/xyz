@@ -35,7 +35,7 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 
 #EXTINF:-1 tvg-id="AmmanTV.net",Amman TV 🇯🇴
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8 
+https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd_720p.m3u8?st=wee5MmHqdCp14b-0820igg&e=1713206352&rid=80730974d39b59dc62114275f0cbb6ac&sid=ynnDTbG6K0GFo4Jyl54caQ&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000  
 
 #EXTINF:-1 tvg-id="https://www.jrtv.gov.jo/live-tv/%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89/1",Jordan Satellite Channel (1080p)🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
