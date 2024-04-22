@@ -170,8 +170,9 @@ http://xtv.ooo:8080/live/122461/4627451/167587.m3u8
 EXTINF:-1,TEN SPORTS
 http://121.91.61.106:8000/play/a04h/index.m3u8
 
-EXTINF:-1,FOX 501
+#EXTINF:-1,FOX 501
 http://xtv.ooo:8080/live/122461/4627451/167593.m3u8
+http://sonyiptv.net:8080/1234567/1234567/247166
 #EXTINF:-1,Real madrid tv 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
 
