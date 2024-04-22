@@ -87,10 +87,10 @@ http://202.21.104.6:88/sps-play/index.m3u8
 #EXTINF:-1 tvg-id="discovery.com",discovery bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-1 tvg-id="netgeo.com",National Geographic HD
+#EXTINF:-1 tvg-id="natgeo.com",National Geographic HD
 http://103.107.79.87:8080/CH8110SD07/tracks-v1a1/mono.m3u8
-http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-id="supersports.com",super sports cricket🇿🇦
+
+E-1 tvg-id="supersports.com",super sports cricket🇿🇦
 https://catowrap.live/mrgamingsscric.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzCgrCInyYxx6_Wwj-ldU2Cwm9C-m6LApOQ&usqp=CAU" group-title="SPORTS", ESPN
