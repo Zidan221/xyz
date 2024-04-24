@@ -222,7 +222,7 @@ EXTINF:-1,Super Sports Premier League
 https://catowrap.live/mrgamingpremier.m3u8
 https://ovo.eelov.com/live/n-2/chunks.m3u8
 
-EXTINF:-1,USA Network
+#EXTINF:-1,USA Network
 https://salamus2023.onlinehdhls.ru/ddh2/premium343/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 https://ovo.eelov.com/live/n-4/chunks.m3u8
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/1654051078622item-08item_Segment-15339250.mp4 
