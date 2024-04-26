@@ -156,7 +156,8 @@ http://xtv.ooo:8080/shahz18/18usman/371469
 #EXTINF:-1,criclife2
 http://xtv.ooo:8080/shahz18/18usman/371470
 
-EXTINF:-1,LIVE sports
+#EXTINF:-1,LIVE sports
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 EXTINF:-1,ASTRO CRICKET 
 http://xtv.ooo:8080/live/122461/4627451/167581.m3u8
