@@ -168,7 +168,7 @@ http://xtv.ooo:8080/live/122461/4627451/167587.m3u8
 EXTINF:-1,TEN SPORTS
 http://121.91.61.106:8000/play/a04h/index.m3u8
 
-#EXTINF:-1,FOX 501
+EXTINF:-1,FOX 501
 http://xtv.ooo:8080/live/122461/4627451/167593.m3u8
 http://sonyiptv.net:8080/1234567/1234567/247166
 #EXTINF:-1,Real madrid tv 
@@ -182,10 +182,10 @@ https://catowrap.live/mrgamingmainevent.m3u8
 https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd
 EXTINF:-1,SKY Sports Cricket
 https://catowrap.live/mrgamingcric.m3u
-#EXTINF:-1 tvg-id="skysports.com",SkY Sports Mix
+EXTINF:-1 tvg-id="skysports.com",SkY Sports Mix
 https://catowrap.live/mrgamingmix.m3u8
 http://zeestb1.online/tata.php?id=8899
-#EXTINF:-1 tvg-id="skysports.com",SKY SPORTS PREMIER league 
+EXTINF:-1 tvg-id="skysports.com",SKY SPORTS PREMIER league 
 http://zeestb1.online/tata.php?id=8891
 #EXTINF:-1 ,True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
@@ -199,10 +199,10 @@ http://114.130.96.165:8080/1018/tracks-v1a1/index.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167567.m3u8
 EXTINF:-1,TNT Sport 1
 https://salamus2023.onlinehdhls.ru/ddh2/premium30/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",32 - TNT Sports 2 UK
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",32 - TNT Sports 2 UK
 https://salamus2023.onlinehdhls.ru/ddh2/premium32/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",33 - TNT Sports 3 UK
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/SD.jpg",33 - TNT Sports 3 UK
 https://salamus2023.onlinehdhls.ru/ddh2/premium33/playlist.m3u8|Origin=https://claplivehdplay.ru/&Referer=https://claplivehdplay.ru/
 
 EXTINF:-1,TNT Sports 4
