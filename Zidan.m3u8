@@ -146,15 +146,22 @@ https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimittrueofileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN sports 1
+#EXTINF:-1,BEIN sports 1
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 https://edge1.laotv.la/live/Bsport1/index.m3u8
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 
 
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN sports 2
+#EXTINF:-1,BEIN sports 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 https://edge1.laotv.la/live/Bsport2/index.m3u8
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
 
+#EXTINF:-1,BEIN 3
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1,GAZI TV
+http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1 group-title="TRUE SPORTS",TRUE SPORTS 1
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
