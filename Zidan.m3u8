@@ -163,6 +163,9 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #EXTINF:-1,GAZI TV
 http://103.151.60.214:7444/1102/video.m3u8
 
+#EXTINF:-1,TOFFEE IPL
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
+
 #EXTINF:-1 group-title="TRUE SPORTS",TRUE SPORTS 1
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
 
