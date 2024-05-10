@@ -76,8 +76,14 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
+#EXTINF:-1,Toffee live BAN VS ZIM
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-3&hls=master_1300.m3u8
 
+#EXTINF:-1,Toffee live IPL
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
 
+#EXTINF:-1,Toffee live IER VS PAK
+https://its-nayeemparvez.xyz/toffee/stream.php?id=match-4&hls=master_1300.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
