@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="pbc.ps",PALESTINE LIVE🇵🇸
+#EXTINF:-1 group-title="TV",PALESTINE LIVE🇵🇸
 https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930 
 
-#EXTINF:-1 tvg-id="saudiatv.sa",KSA 1🇸🇦
+#EXTINF:-1 group-title="TV",KSA 1🇸🇦
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/K1b231RTptN3uFhP6” group-title=”TV”,MAKKAH🇸🇦
+#EXTINF:-1 group-title=”TV”,MAKKAH🇸🇦
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
-#EXTINF:-1 tvg-id="peacetv.com",PEACE TV BANGLA
+#EXTINF:-1 group-title="TV",PEACE TV BANGLA
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Medina (1080p) 🇸🇦
+#EXTINF:-1 group-title="TV",Medina (1080p) 🇸🇦
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-#EXTINF:-1 tvg-id="aljazeera.qa",al jazeera mubashar🇶🇦
+#EXTINF:-1 group-title="TV",al jazeera mubashar🇶🇦
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)🇶🇦
+#EXTINF:-1 group-title="TV",Al Jazeera Arabic (1080p)🇶🇦
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa",Al Jazeera English🇶🇦
+#EXTINF:-1 group-title="TV",Al Jazeera English🇶🇦
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="QatarTelevision.qa",Qatar Television (720p)🇶🇦
+#EXTINF:-1 group-title="TV",Qatar Television (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 
-#EXTINF:-1 tvg-id="QatarTelevision2.qa",Qatar Television 2 (720p)🇶🇦
+#EXTINF:-1 group-title="TV",Qatar Television 2 (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 
-#EXTINF:-1 tvg-id="AmmanTV.net",Amman TV 🇯🇴
+#EXTINF:-1 group-title="TV",Amman TV 🇯🇴
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8  
 
-#EXTINF:-1 tvg-id="https://www.jrtv.gov.jo/live-tv/%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89/1",Jordan Satellite Channel (1080p)🇯🇴
+#EXTINF:-1 group-title="TV",Jordan Satellite Channel (1080p)🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
-#EXTINF:-1 tvg-id="NablusTV.ps",Nablus TV (720p)🇵🇸
+#EXTINF:-1 group-title="TV",Nablus TV (720p)🇵🇸
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 
-#EXTINF:-1 tvg-id="ShababFM.ps",Shabab FM (720p)🇵🇸
+#EXTINF:-1 group-title="TV",Shabab FM (720p)🇵🇸
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 
-#EXTINF:-1 tvg-id="https://www.media.gov.kw/LiveTV.aspx",kuwait tv 1🇰🇼
+#EXTINF:-1 group-title="TV",kuwait tv 1🇰🇼
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="https://www.media.gov.kw/LiveTV.aspx",kuwait sports🇰🇼
+#EXTINF:-1 group-title="TV",kuwait sports🇰🇼
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="discovery.com",discovery bangla
+#EXTINF:-1 group-title="TV",discovery bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
-EXTINF:-1 tvg-id="natgeo.com",National Geographic HD
+EXTINF:-1 group-title="TV",National Geographic HD
 http://103.107.79.87:8080/CH8110SD07/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="animalplanet.com",Animal planet HD
+#EXTINF:-1 group-title="TV",Animal planet HD
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
 E-1 tvg-id="supersports.com",super sports cricket🇿🇦
@@ -76,13 +76,13 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
-#EXTINF:-1,Toffee live BAN VS ZIM
+#EXTINF:-1 group-title="TV",toffee live BAN VS ZIM
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-3&hls=master_1300.m3u8
 
-#EXTINF:-1,Toffee live IPL
+#EXTINF:-1 group-title="TV",Toffee live IPL
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
 
-#EXTINF:-1,Toffee live IER VS PAK
+#EXTINF:-1 group-title="TV",Toffee live IER VS PAK
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-4&hls=master_1300.m3u8
 
 
@@ -152,28 +152,28 @@ https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimittrueofileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1,BEIN sports 1
+#EXTINF:-1,group-title="BEIN SPORTS",BEIN sports 1
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 
 
-#EXTINF:-1,BEIN sports 2
+#EXTINF:-1,group-title="BEIN SPORTS",BEIN sports 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
 
-#EXTINF:-1,BEIN 3
+#EXTINF:-1,group-title="BEIN SPORTS",BEIN 3
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #EXTINF:-1,T SPORTS
 
-#EXTINF:-1,GAZI TV
+#EXTINF:-1,group-title="TV",GAZI TV
 http://103.151.60.214:7444/1102/video.m3u8
-#EXTINF:-1,TOFFEE IPL
+#EXTINF:-1,group-title="TV",TOFFEE IPL
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
-#EXTINF:-1,TOFFEE BAN VS ZIM
+#EXTINF:-1,group-title="TV",TOFFEE BAN VS ZIM
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-3&hls=master_1300.m3u8
-#EXTINF:-1,TOFFEE IRE VS PAK
+#EXTINF:-1,group-title="TV",TOFFEE IRE VS PAK
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-4&hls=master_1300.m3u8
 
 
