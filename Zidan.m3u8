@@ -11,6 +11,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 
 #EXTINF:-1 group-title="TV",PEACE TV BANGLA
 http://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV",Medina (1080p) 🇸🇦
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
@@ -165,15 +166,16 @@ http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
 
 #EXTINF:-1,group-title="BEIN SPORTS",BEIN 3
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
-#EXTINF:-1,T SPORTS
+EXTINF:-1,Nagorik TV
+http://wcdn.bdixsports.live:1935/live/event360.stream/playlist.m3u8
 
 #EXTINF:-1,group-title="TV",GAZI TV
 http://103.151.60.214:7444/1102/video.m3u8
-#EXTINF:-1,group-title="TV",TOFFEE IPL
+EXTINF:-1,group-title="TV",TOFFEE IPL
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
-#EXTINF:-1,group-title="TV",TOFFEE BAN VS ZIM
+EXTINF:-1,group-title="TV",TOFFEE BAN VS ZIM
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-3&hls=master_1300.m3u8
-#EXTINF:-1,group-title="TV",TOFFEE IRE VS PAK
+EXTINF:-1,group-title="TV",TOFFEE IRE VS PAK
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-4&hls=master_1300.m3u8
 
 
