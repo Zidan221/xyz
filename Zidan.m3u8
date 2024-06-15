@@ -7,7 +7,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/inde
 https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_tv&t=bd1393f7ae0e4b580eb36b37103d0bef
 
 #EXTINF:-1 group-title="TV",MAKKAH🇸🇦
-https://m.live.net.sa:1935/live/quran/playlist.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
 
@@ -16,8 +16,8 @@ https://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV",Medina (1080p) 🇸🇦
-https://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+http://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
 
 XTINF:-1 group-title="TV",Al ekbariya 🇸🇦
