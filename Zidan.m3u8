@@ -12,8 +12,8 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 group-title="TV",saudi a'lan
 https://live.kwikmotion.com/ksasports4live/ksasports4.smil/ksasports4publish/ksasports4_480p/hdntl=exp=1718517785~acl=%2fksasports4live%2fksasports4.smil%2f*~data=hdntl~hmac=0376b24022d6da2f6bd01f844550ee730eb3d552106bea87c590de478471bd2a/dvr_v_p639_826440106.ts
 #EXTINF:-1 group-title="TV",PEACE TV BANGLA
-https://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.m3u8
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV",Medina (1080p) 🇸🇦
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
@@ -65,6 +65,19 @@ https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=48b25ad61d3247453
 #EXTINF:-1 group-title="TV",Animal planet HD
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
+#EXTINF:-1 group-title="TV",T sports ONE
+https://fifabd.xyz/tttttt/play.php?id=1&q=720
+
+#EXTINF:-1 group-title="TV",T sports TWO
+https://fifabd.xyz/tttttt/play.php?id=2&q=720
+
+#EXTINF:-1 group-title="TV",TOFFEE COPA 1
+https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-2
+
+#EXTINF:-1 group-title="TV",TOFFEE COPA 2
+https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-4
+
+
 E-1 tvg-id="supersports.com",super sports cricket🇿🇦
 https://catowrap.live/mrgamingsscric.m3u8
 
@@ -83,14 +96,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 
-EXTINF:-1 group-title="TV",toffee live BAN VS ZIM
-https://its-nayeemparvez.xyz/toffee/stream.php?id=match-3&hls=master_1300.m3u8
 
-EXTINF:-1 group-title="TV",Toffee live IPL
-https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
-
-EXTINF:-1 group-title="TV",Toffee live IER VS PAK
-https://its-nayeemparvez.xyz/toffee/stream.php?id=match-4&hls=master_1300.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png",Sports 18 1 HD
