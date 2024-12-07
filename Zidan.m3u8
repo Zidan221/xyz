@@ -2,19 +2,19 @@
 #EXTINF:-1 group-title="TV",PALESTINE LIVE🇵🇸
 https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930 
 
-#EXTINF:-1 group-title="TV",KSA 1🇸🇦
+EXTINF:-1 group-title="TV",KSA 1🇸🇦
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_tv&t=bd1393f7ae0e4b580eb36b37103d0bef
 
-#EXTINF:-1 group-title="TV",MAKKAH🇸🇦
+EXTINF:-1 group-title="TV",MAKKAH🇸🇦
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
-#EXTINF:-1 group-title="TV",PEACE TV BANGLA
+EXTINF:-1 group-title="TV",PEACE TV BANGLA
 https://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV",Medina (1080p) 🇸🇦
+EXTINF:-1 group-title="TV",Medina (1080p) 🇸🇦
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 http://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
@@ -55,25 +55,25 @@ https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b800000
 #EXTINF:-1 group-title="TV",kuwait sports🇰🇼
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 group-title="TV",discovery bangla
+EXTINF:-1 group-title="TV",discovery bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-1 group-title="TV",National Geographic HD
+EXTINF:-1 group-title="TV",National Geographic HD
 https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=48b25ad61d3247453
 
-#EXTINF:-1 group-title="TV",Animal planet HD
+EXTINF:-1 group-title="TV",Animal planet HD
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 
-#EXTINF:-1 group-title="TV",T sports ONE
+EXTINF:-1 group-title="TV",T sports ONE
 https://fifabd.xyz/tttttt/play.php?id=1&q=720
 
-#EXTINF:-1 group-title="TV",T sports TWO
+EXTINF:-1 group-title="TV",T sports TWO
 https://fifabd.xyz/tttttt/play.php?id=2&q=720
 
-#EXTINF:-1 group-title="TV",TOFFEE COPA 1
+EXTINF:-1 group-title="TV",TOFFEE COPA 1
 https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-2
 
-#EXTINF:-1 group-title="TV",TOFFEE COPA 2
+EXTINF:-1 group-title="TV",TOFFEE COPA 2
 https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-4
 
 
@@ -105,6 +105,7 @@ https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=362e7cda610177dd0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",A Sports
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
 http://121.91.61.106:8000/play/a03o/index.m3u8
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 EXTINF:-1,Cric Life 1
 https://freeiptv25.netlify.app/live/stream_4.m3u8
@@ -112,18 +113,18 @@ https://freeiptv25.netlify.app/live/stream_4.m3u8
 EXTINF:-1,criclife2
 http://xtv.ooo:8080/shahz18/18usman/371470
 
-#EXTINF:-1,LIVE sports
+EXTINF:-1,LIVE sports
 https://a2uy.short.gy/MCI-V-MUN/Join-@HimelOP_Official/Zubayer-Op.m3u8
-#EXTINF:-1 ,True Premier Football 2
+EXTINF:-1 ,True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 ,True Sports
+EXTINF:-1 ,True Sports
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1 tvg-id="ptv.pk",PTV sports
 https://webudit.webhd.ru/lb/premium450/index.m3u8?|Referer=https://weblivehdplay.ru/
 http://114.130.96.165:8080/1018/tracks-v1a1/index.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167567.m3u8
-
+http://125.209.88.166:45793/BRN/PTVSports.stream/chunklist_w1704582117.m3u8
 
 
 #EXTINF:-1,SPOTV 1
