@@ -1,26 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV",PALESTINE LIVE🇵🇸
-https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930 
+https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930
 
-EXTINF:-1 group-title="TV",KSA 1🇸🇦
-https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
-https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=saudi_tv&t=bd1393f7ae0e4b580eb36b37103d0bef
+#EXTINF:-1 tvg-id="Ajyal TV" tvg-name="Ajyal TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Ajyal TV+
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 
-EXTINF:-1 group-title="TV",MAKKAH🇸🇦
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-country="PS" tvg-url="" group-title="TV",Musawa Channel+
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 group-title="TV",PEACE TV BANGLA
-https://176.119.29.52/live/00:1A:79:75:C2:64/D0EA41E1A7E7F/237.
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TV",Palestinian TV+
+http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
 
-EXTINF:-1 group-title="TV",Medina (1080p) 🇸🇦
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-http://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 group-title="TV",Alfajertv 2+
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 
 
-XTINF:-1 group-title="TV",Al ekbariya 🇸🇦
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718369347/ei/4-drZpXWHNXhjMwP-7qL6As/ip/103.167.209.160/id/FopYEpSraso.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f3L5j6oPTgk_NiPsbjajyBRaweZuOJ7Ik75o4RlUWILK06g92sw9o7zzbNKWXQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJTwhtM-Mif3O5jkMiXx9Q3AgBYvi9IaBVdhrhsts6gJAiEAofaTs1eR5qdOZrECoH-C9a5AkhnrmjWdxFbzp501uSM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="TV",al jazeera mubashar🇶🇦
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
@@ -37,6 +31,12 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 group-title="TV",Qatar Television 2 (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 
+#EXTINF:-1 tvg-id="Al Rayan" tvg-name="Al Rayan" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Al Rayyan🇶🇦
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" tvg-country="QA" tvg-url="" group-title="TV",Al Rayyan Al Qadeem🇶🇦
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="TV",Amman TV 🇯🇴
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
@@ -50,6 +50,12 @@ http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 
 #EXTINF:-1 group-title="TV",Shabab FM (720p)🇵🇸
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+https://htvint.mada.ps/shababfm/tracks-v1a1/2025/04/02/08/41/20-08333.ts
+https://htvint.mada.ps/shababfm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TV",Shabab FM quran (720p)🇵🇸
+https://htvint.mada.ps/shababfm/tracks-v1a1/mono.m3u8
+https://htvint.mada.ps/shababquran/tracks-v1a1/2025/04/02/08/44/51-08333.ts
 
 #EXTINF:-1 group-title="TV",kuwait tv 1🇰🇼
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
