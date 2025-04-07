@@ -8,11 +8,11 @@ http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-country="PS" tvg-url="" group-title="TV",Musawa Channel+
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV",Palestinian TV+
+EXTINF:-1 group-title="TV",Palestinian TV+
 http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
 
-#EXTINF:-1 group-title="TV",Alfajertv 2+
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1 group-title="TV",Al-masirah Yemen
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_240p/chunks.m3u8?nimblesessionid=16942081
 
 
 
