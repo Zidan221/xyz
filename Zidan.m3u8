@@ -2,17 +2,20 @@
 #EXTINF:-1 group-title="TV",PALESTINE LIVE🇵🇸
 https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930
 
-#EXTINF:-1 tvg-id="Ajyal TV" tvg-name="Ajyal TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Ajyal TV+
+EXTINF:-1 tvg-id="Ajyal TV" tvg-name="Ajyal TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Ajyal TV+
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-country="PS" tvg-url="" group-title="TV",Musawa Channel+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-country="PS" tvg-url="" group-title="TV",Musawa Channel
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+https://pbc.furrera.ps/musawahd/tracks-v3a1/mono.m3u8
 
 EXTINF:-1 group-title="TV",Palestinian TV+
 http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
 
 #EXTINF:-1 group-title="TV",Al-masirah Yemen
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_240p/chunks.m3u8?nimblesessionid=16942081
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_1080p/chunks.m3u8?nimblesessionid=16942081
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_1080p/chunks.m3u8?nimblesessionid=17192745
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_1080p/l_128_4864492_10852.ts?nimblesessionid=17192745
 
 
 
@@ -31,10 +34,10 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 group-title="TV",Qatar Television 2 (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 
-#EXTINF:-1 tvg-id="Al Rayan" tvg-name="Al Rayan" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Al Rayyan🇶🇦
+EXTINF:-1 tvg-id="Al Rayan" tvg-name="Al Rayan" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Al Rayyan🇶🇦
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" tvg-country="QA" tvg-url="" group-title="TV",Al Rayyan Al Qadeem🇶🇦
+EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" tvg-country="QA" tvg-url="" group-title="TV",Al Rayyan Al Qadeem🇶🇦
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV",Amman TV 🇯🇴
