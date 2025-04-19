@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV",PALESTINE LIVE🇵🇸
+#EXTINF:-1tvg-id="palestinemubasher.ps"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="TV",PALESTINE LIVE🇵🇸
 https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930
 
 EXTINF:-1 tvg-id="Ajyal TV" tvg-name="Ajyal TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Ajyal TV+
