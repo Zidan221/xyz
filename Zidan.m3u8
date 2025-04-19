@@ -5,27 +5,27 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=1740303930
 EXTINF:-1 tvg-id="Ajyal TV" tvg-name="Ajyal TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Ajyal TV+
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-country="PS" tvg-url="" group-title="TV",Musawa Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEFW4Vy.png" group-title="TV",Musawa Channel
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 https://pbc.furrera.ps/musawahd/tracks-v3a1/mono.m3u8
 
 EXTINF:-1 group-title="TV",Palestinian TV+
 http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8
 
-#EXTINF:-1 group-title="TV",Al-masirah Yemen
+EXTINF:-1 group-title="TV",Al-masirah Yemen
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_1080p/chunks.m3u8?nimblesessionid=16942081
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_1080p/chunks.m3u8?nimblesessionid=17192745
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_1080p/l_128_4864492_10852.ts?nimblesessionid=17192745
 
 
 
-#EXTINF:-1 group-title="TV",al jazeera mubashar🇶🇦
+#EXTINF:-1 tvg-id="www.aljazeera.net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Aljazeera_mubasher.png" group-title="TV",al jazeera mubashar🇶🇦
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-#EXTINF:-1 group-title="TV",Al Jazeera Arabic (1080p)🇶🇦
+#EXTINF:-1 tvg-id="www.aljazeera.net" tvg-logo="https://brandlogos.net/wp-content/uploads/2011/06/al-jazeera-vector-logo.png" group-title="TV",Al Jazeera Arabic (1080p)🇶🇦
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 
-#EXTINF:-1 group-title="TV",Al Jazeera English🇶🇦
+#EXTINF:-1 tvg-id="www.aljazeera.net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncMa-ZmBeXlN3hs0mYBvM6qfPgvCu9N3MHS9YpklI38gq5daiFrgUlmQ&s=10" group-title="TV",Al Jazeera English🇶🇦
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 group-title="TV",Qatar Television (720p)🇶🇦
