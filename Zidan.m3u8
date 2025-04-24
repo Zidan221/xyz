@@ -28,27 +28,27 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="www.aljazeera.net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncMa-ZmBeXlN3hs0mYBvM6qfPgvCu9N3MHS9YpklI38gq5daiFrgUlmQ&s=10" group-title="TV",Al Jazeera English🇶🇦
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 group-title="TV",Qatar Television (720p)🇶🇦
+#EXTINF:-1 tvg-id="www.qtv.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Qatar_TV_logo.png/160px-Qatar_TV_logo.png" group-title="TV",Qatar Television (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 
-#EXTINF:-1 group-title="TV",Qatar Television 2 (720p)🇶🇦
+#EXTINF:-1 tvg-id="www.qtv.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Qatar_TV_logo.png/160px-Qatar_TV_logo.png" group-title="TV",Qatar Television 2 (720p)🇶🇦
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 
-EXTINF:-1 tvg-id="Al Rayan" tvg-name="Al Rayan" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TV",Al Rayyan🇶🇦
+EXTINF:-1 tvg-id="www.alrayyan.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_2014-03-24_07-56.png" tvg-name="Al Rayan" group-title="TV",Al Rayyan🇶🇦
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" tvg-country="QA" tvg-url="" group-title="TV",Al Rayyan Al Qadeem🇶🇦
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV",Amman TV 🇯🇴
+#EXTINF:-1 tvg-id="www.ammantv.net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZKm2rp1PoPI7OqQjODrXAvsIuWBYb4_Flt3seqkLr77-XCjsNn4lUZI&s=10" group-title="TV",Amman TV 🇯🇴
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 https://htvnksdtmy.fra.ercdn.net/sznqpketil/ammantvhd/ammantvhd_720p-1743322520.ts?st=llxIr_27KkRC0NpHJknm3Q&e=1743336906&rid=1d37b90197b2181b34a5ed80cb0e31a7&sid=4ozxHGr2rESd1-mtT9Sqfw&bvr_flags=1&bvr_ch=ammantvhd&bvr_bw=1500000
 
-#EXTINF:-1 group-title="TV",Jordan Satellite Channel (1080p)🇯🇴
+#EXTINF:-1 tvg-id="www.jrtv.gov.jo" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9d/%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A.png" group-title="TV",Jordan Satellite Channel (1080p)🇯🇴
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
-#EXTINF:-1 group-title="TV",Nablus TV (720p)🇵🇸
+#EXTINF:-1 tvg-id="www.nablustv.tv" tvg-logo="https://play-lh.googleusercontent.com/-hkUxo0pBKwx0SLog8d_AQTbSiYfjfS3r9r2nx9USc26Z5h_3JDPbOeAT9dk2zEmnA=w600-h300-pc0xffffff-pd" group-title="TV",Nablus TV (720p)🇵🇸
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 
 #EXTINF:-1 group-title="TV",Shabab FM (720p)🇵🇸
